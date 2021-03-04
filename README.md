@@ -1,24 +1,25 @@
 # Historical stock data app
 
-This SPA-application provides some statistics about
+This React SPA-application provides some statistics about
 historical stock data. App analyzes data from CSV-files
 that must be downloaded from the website of Nasdaq and
 then imported to the app.
 
-When a user has imported a CSV-file to the app, they can
-select a date range from that historical data that they
-want to analyze. App offers three different statistics from
+After user has imported a CSV-file to the app, they can
+select a date range from the imported data that they
+want to analyze. App offers three different statistics about
 the data.
 
-This responsive app is made with Create React App. 
+This app is responsive and it is made with Create React App.
 
 Styling is made with Bootstrap 4 and custom CSS.
 
 App works best with Chrome.
 
 ## Link to app
+Deployed version of the app running in Heroku:
 
-TBA
+https://historical-stock-data-app.herokuapp.com/
 
 ## Installation
 
