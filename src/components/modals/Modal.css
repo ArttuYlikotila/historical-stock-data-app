@@ -1,0 +1,11 @@
+.modal-content {
+  text-align: center;
+}
+
+.positive {
+  color: green;
+}
+
+.negative {
+  color: red;
+}

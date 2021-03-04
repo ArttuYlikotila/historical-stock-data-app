@@ -1,0 +1,47 @@
+.info {
+  text-align: center;
+  margin: auto;
+  width: 90%;
+}
+
+.wrapper {
+  display: flex;
+  margin: auto;
+  margin-top: 1em;
+  align-items: stretch;
+  text-align: center;
+}
+
+@media screen and (max-width: 500px) {
+  .wrapper {
+    width: 100%;
+    padding-left: 0.5rem;
+    padding-right: 0.5rem;
+    display: block;
+  }
+}
+
+@media screen and (min-width: 500px) {
+  .wrapper {
+    width: 100%;
+    padding-left: 0.5rem;
+  }
+}
+
+@media screen and (min-width: 650px) {
+  .wrapper {
+    width: 90%;
+  }
+}
+
+@media screen and (min-width: 1000px) {
+  .wrapper {
+    width: 75%;
+  }
+}
+
+@media screen and (min-width: 1200px) {
+  .wrapper {
+    width: 70%;
+  }
+}

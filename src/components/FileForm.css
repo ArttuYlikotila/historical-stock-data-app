@@ -1,0 +1,43 @@
+.wrap {
+  text-align: justify;
+  margin: auto;
+  margin-top: 3em;
+  padding: 1em;
+  border: 1px solid #dee2e6;
+  border-radius: 10px;
+  box-shadow: 4px 4px 10px 0.5px #888888;
+}
+
+.fileInput {
+  margin-bottom: 1em;
+}
+
+@media screen and (max-width: 500px) {
+  .wrap {
+    max-width: 80%;
+  }
+}
+
+@media screen and (min-width: 500px) {
+  .wrap {
+    width: 70%;
+  }
+}
+
+@media screen and (min-width: 600px) {
+  .wrap {
+    width: 60%;
+  }
+}
+
+@media screen and (min-width: 700px) {
+  .wrap {
+    width: 50%;
+  }
+}
+
+@media screen and (min-width: 1200px) {
+  .wrap {
+    width: 40%;
+  }
+}

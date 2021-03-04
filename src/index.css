@@ -1,0 +1,58 @@
+body {
+  margin: 0;
+  font-family: 'Noto Sans', sans-serif;
+  color: #686363;
+}
+
+h1 {
+  font-family: 'Bebas Neue';
+  color: black;
+}
+
+@media screen and (max-width: 320px) {
+  :root {
+    font-size: 7px;
+  }
+}
+
+@media screen and (min-width: 320px) {
+  :root {
+    font-size: 7.5px;
+  }
+}
+
+@media screen and (min-width: 360px) {
+  :root {
+    font-size: 8.5px;
+  }
+}
+
+@media screen and (min-width: 450px) {
+  :root {
+    font-size: 9px;
+  }
+}
+
+@media screen and (min-width: 520px) {
+  :root {
+    font-size: 10px;
+  }
+}
+
+@media screen and (min-width: 610px) {
+  :root {
+    font-size: 12px;
+  }
+}
+
+@media screen and (min-width: 750px) {
+  :root {
+    font-size: 14px;
+  }
+}
+
+@media screen and (min-width: 850px) {
+  :root {
+    font-size: 16px;
+  }
+}

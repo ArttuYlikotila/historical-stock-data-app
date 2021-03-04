@@ -1,0 +1,16 @@
+.data-table {
+  margin-left: 1em;
+  width: 65%;
+}
+
+table {
+  border: 1px solid #dee2e6;
+  margin-top: 2em;
+}
+
+@media screen and (max-width: 500px) {
+  .data-table {
+    width: 95%;
+    margin: auto;
+  }
+}
