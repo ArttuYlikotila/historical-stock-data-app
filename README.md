@@ -16,11 +16,6 @@ Styling is made with Bootstrap 4 and custom CSS.
 
 App works best with Chrome.
 
-## Link to app
-Deployed version of the app running in Heroku:
-
-https://historical-stock-data-app.herokuapp.com/
-
 ## Installation
 
 ### Pre-requisites:
